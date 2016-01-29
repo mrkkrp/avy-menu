@@ -1,6 +1,7 @@
 # Avy Menu
 
 [![License GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
+[![MELPA](http://melpa.org/packages/avy-menu-badge.svg)](http://melpa.org/#/avy-menu)
 [![Build Status](https://travis-ci.org/mrkkrp/avy-menu.svg?branch=master)](https://travis-ci.org/mrkkrp/avy-menu)
 
 The library provides [`avy`](https://github.com/abo-abo/avy)-powered popup
@@ -27,6 +28,9 @@ are writing an Emacs Lisp package:
 ```emacs-lisp
 ;; Package-Requires: ((emacs "24.5") (avy-menu "0.1"))
 ```
+
+To install the package via MELPA, type <kbd>M-x package-install avy-menu
+RET</kbd>.
 
 ## API
 
