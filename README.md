@@ -45,6 +45,6 @@ menu.
 
 ## License
 
-Copyright © 2016 Mark Karpov
+Copyright © 2016–2017 Mark Karpov
 
 Distributed under GNU GPL, version 3.
