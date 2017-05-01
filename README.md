@@ -10,6 +10,7 @@ the following packages:
 
 * [`ace-popup-menu`](https://github.com/mrkkrp/ace-popup-menu)
 * [`char-menu`](https://github.com/mrkkrp/char-menu)
+* [`hasky-extensions`](https://github.com/hasky-mode/hasky-extensions)
 
 You can use it directly for your custom needs as well.
 
@@ -34,9 +35,9 @@ RET</kbd>.
 
 ## API
 
-The single public function `avy-menu` provides all functionality. See its
-description in source code or with built-in help system: <kbd>C-h f avy-menu
-RET</kbd>.
+The single public function `avy-menu` provides all the functionality. See
+its description in source code or with built-in help system: <kbd>C-h f
+avy-menu RET</kbd>.
 
 ## Customization
 

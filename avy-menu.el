@@ -30,6 +30,7 @@
 ;;
 ;; * `ace-popup-menu'
 ;; * `char-menu'
+;; * `hasky-extensions'
 ;;
 ;; You can use it directly for your custom needs as well.
 
@@ -59,7 +60,7 @@
 
 ;;;###autoload
 (defun avy-menu (buffer-or-name menu &optional show-pane-header)
-  "Show popup menu in a temporary window and return user's selection.
+  "Show a popup menu in a temporary window and return user's selection.
 
 BUFFER-OR-NAME specifies name of the buffer (or buffer itself)
 that hosts menu options.  MENU itself should be a list of the
