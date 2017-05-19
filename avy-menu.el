@@ -1,8 +1,8 @@
 ;;; avy-menu.el --- Library providing avy-powered popup menu -*- lexical-binding: t; -*-
 ;;
-;; Copyright © 2016–2017 Mark Karpov <markkarpov@openmailbox.org>
+;; Copyright © 2016–2017 Mark Karpov <markkarpov92@gmail.com>
 ;;
-;; Author: Mark Karpov <markkarpov@openmailbox.org>
+;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/avy-menu
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24.3") (avy "0.3.0"))
