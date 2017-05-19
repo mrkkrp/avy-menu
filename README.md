@@ -6,7 +6,7 @@
 
 The library provides [`avy`](https://github.com/abo-abo/avy)-powered popup
 menu that allows to quickly choose from available options. This is used in
-the following packages:
+(at least) the following packages:
 
 * [`ace-popup-menu`](https://github.com/mrkkrp/ace-popup-menu)
 * [`char-menu`](https://github.com/mrkkrp/char-menu)
@@ -23,8 +23,8 @@ where you would like to use the menu:
 (require 'avy-menu)
 ```
 
-That's it. Don't forget to include it in your list of dependencies if you
-are writing an Emacs Lisp package:
+Don't forget to include it in your list of dependencies if you are writing
+an Emacs Lisp package:
 
 ```emacs-lisp
 ;; Package-Requires: ((emacs "24.5") (avy-menu "0.1"))
