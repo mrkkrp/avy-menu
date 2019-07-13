@@ -1,6 +1,6 @@
 ;;; avy-menu.el --- Library providing avy-powered popup menu -*- lexical-binding: t; -*-
 ;;
-;; Copyright © 2016–2019 Mark Karpov <markkarpov92@gmail.com>
+;; Copyright © 2016–present Mark Karpov <markkarpov92@gmail.com>
 ;;
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/avy-menu
