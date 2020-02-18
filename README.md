@@ -2,7 +2,7 @@
 
 [![License GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
 [![MELPA](https://melpa.org/packages/avy-menu-badge.svg)](https://melpa.org/#/avy-menu)
-[![Build Status](https://travis-ci.org/mrkkrp/avy-menu.svg?branch=master)](https://travis-ci.org/mrkkrp/avy-menu)
+[![CircleCI](https://circleci.com/gh/mrkkrp/avy-menu/tree/master.svg?style=svg)](https://circleci.com/gh/mrkkrp/avy-menu/tree/master)
 
 The library provides [`avy`](https://github.com/abo-abo/avy)-powered popup
 menu that allows to quickly choose from available options. This is used in
