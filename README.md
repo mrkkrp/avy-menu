@@ -4,20 +4,23 @@
 [![MELPA](https://melpa.org/packages/avy-menu-badge.svg)](https://melpa.org/#/avy-menu)
 ![CI](https://github.com/mrkkrp/avy-menu/workflows/CI/badge.svg?branch=master)
 
-The library provides [`avy`](https://github.com/abo-abo/avy)-powered popup
-menu that allows to quickly choose from available options. This is used in
-(at least) the following packages:
+The library provides an [`avy`](https://github.com/abo-abo/avy)-powered
+popup menu. It is used in (at least) the following packages:
 
 * [`ace-popup-menu`](https://github.com/mrkkrp/ace-popup-menu)
 * [`char-menu`](https://github.com/mrkkrp/char-menu)
 * [`hasky-extensions`](https://github.com/hasky-mode/hasky-extensions)
 
-You can use it directly for your custom needs as well.
+It can also be used directly.
 
 ## Installation
 
-Put it on your `load-path` and then add the following at the top of file
-where you would like to use the menu:
+The package is available via MELPA, so you can just type `M-x
+package-install RET avy-menu RET`.
+
+If you would like to install the package manually, download or clone it and
+put on Emacs' `load-path`. Then you can require it in your init file like
+this:
 
 ```emacs-lisp
 (require 'avy-menu)
@@ -30,19 +33,14 @@ an Emacs Lisp package:
 ;; Package-Requires: ((emacs "24.5") (avy-menu "0.1"))
 ```
 
-To install the package via MELPA, type <kbd>M-x package-install avy-menu
-RET</kbd>.
-
 ## API
 
-The single public function `avy-menu` provides all the functionality. See
-its description in source code or with built-in help system: <kbd>C-h f
-avy-menu RET</kbd>.
+See the description of `avy-menu` in the source code or by typing `C-h f
+avy-menu RET`.
 
 ## Customization
 
-Use <kbd>M-x customize-group avy-menu RET</kbd> to change appearance of the
-menu.
+Use `M-x customize-group avy-menu RET` to change appearance of the menu.
 
 ## License
 
