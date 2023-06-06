@@ -5,8 +5,8 @@
 ;; Author: Mark Karpov <markkarpov92@gmail.com>
 ;; URL: https://github.com/mrkkrp/avy-menu
 ;; Version: 0.1.1
-;; Package-Requires: ((emacs "24.3") (avy "0.4.0"))
-;; Keywords: popup, menu
+;; Package-Requires: ((emacs "24.4") (avy "0.4.0"))
+;; Keywords: convenience
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
