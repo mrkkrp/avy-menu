@@ -2,7 +2,7 @@
 
 [![License GPL 3](https://img.shields.io/badge/license-GPL_3-green.svg)](http://www.gnu.org/licenses/gpl-3.0.txt)
 [![MELPA](https://melpa.org/packages/avy-menu-badge.svg)](https://melpa.org/#/avy-menu)
-![CI](https://github.com/mrkkrp/avy-menu/workflows/CI/badge.svg?branch=master)
+[![CI](https://github.com/mrkkrp/avy-menu/actions/workflows/ci.yaml/badge.svg)](https://github.com/mrkkrp/avy-menu/actions/workflows/ci.yaml)
 
 The library provides an [`avy`](https://github.com/abo-abo/avy)-powered
 popup menu. It is used in (at least) the following packages:
