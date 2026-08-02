@@ -48,7 +48,7 @@
 
 (defface avy-menu-title
   '((t (:inherit font-lock-function-name-face)))
-  "Face used to print title of entire menu.")
+  "Face used to print the title of the entire menu.")
 
 (defface avy-menu-pane-header
   '((t (:inherit underline)))
@@ -123,9 +123,9 @@ not correspond to an option in the menu."
 ITEMS should be a list, where every element is a cons of the
 form (STRING . VALUE), where STRING is the string to be printed
 in the current buffer and VALUE is used to construct the result
-value of this function.  ITEMS can contain plain strings, in this
-case they are printed with inactive face.  Empty strings are not
-printed, instead they begin new sub-sections.
+value of this function.  ITEMS can contain plain strings, in
+which case they are printed with the inactive face.  Empty
+strings are not printed; instead they begin new sub-sections.
 
 Return an alist of values (POS . VALUE), where POS indicates the
 position of STRING in the buffer and VALUE is its associated

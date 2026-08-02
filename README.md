@@ -40,7 +40,7 @@ avy-menu RET`.
 
 ## Customization
 
-Use `M-x customize-group avy-menu RET` to change appearance of the menu.
+Use `M-x customize-group avy-menu RET` to change the appearance of the menu.
 
 ## License
 
